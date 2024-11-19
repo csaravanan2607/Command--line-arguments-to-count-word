@@ -1,5 +1,5 @@
 # Command--line-arguments-to-count-word
-# Date : 16/10/24
+# Date : 
 ## AIM :
 To write a python program for getting the word count from the contents of a file using command line arguments.
 ## EQUIPEMENT'S REQUIRED : 
